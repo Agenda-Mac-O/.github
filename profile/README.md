@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/date-focused_note-taking-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/note-date_taking-blue?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/>
 </p>
